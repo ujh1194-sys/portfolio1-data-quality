@@ -1,0 +1,10 @@
+﻿품질 규칙,오류 행 수
+order_id NULL,0
+customer_id NULL,3
+status 허용값 위반,3
+amount NULL,1
+amount 0 이하,2
+payment_method 허용값 위반,2
+미래 order_date,2
+updated_at 시간 순서 위반,4
+order_id 중복,8

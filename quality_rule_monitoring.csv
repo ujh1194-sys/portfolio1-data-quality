@@ -1,0 +1,10 @@
+﻿품질 규칙,오류 행 수,전체 행 수,오류율(%)
+order_id 중복,8,124,6.45
+updated_at 시간 순서 위반,4,124,3.23
+customer_id NULL,3,124,2.42
+status 허용값 위반,3,124,2.42
+amount 0 이하,2,124,1.61
+payment_method 허용값 위반,2,124,1.61
+미래 order_date,2,124,1.61
+amount NULL,1,124,0.81
+order_id NULL,0,124,0.0
